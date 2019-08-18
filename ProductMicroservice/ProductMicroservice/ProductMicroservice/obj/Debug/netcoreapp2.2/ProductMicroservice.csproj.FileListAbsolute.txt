@@ -1,0 +1,14 @@
+F:\NetCore\WebAPI\ProductMicroservice\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.csproj.CoreCompileInputs.cache
+F:\NetCore\WebAPI\ProductMicroservice\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.RazorAssemblyInfo.cache
+F:\NetCore\WebAPI\ProductMicroservice\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.RazorAssemblyInfo.cs
+F:\NetCore\WebAPI\ProductMicroservice\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.AssemblyInfoInputs.cache
+F:\NetCore\WebAPI\ProductMicroservice\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.AssemblyInfo.cs
+F:\NetCore\WebAPI\ProductMicroservice\ProductMicroservice\ProductMicroservice\bin\Debug\netcoreapp2.2\ProductMicroservice.deps.json
+F:\NetCore\WebAPI\ProductMicroservice\ProductMicroservice\ProductMicroservice\bin\Debug\netcoreapp2.2\ProductMicroservice.runtimeconfig.json
+F:\NetCore\WebAPI\ProductMicroservice\ProductMicroservice\ProductMicroservice\bin\Debug\netcoreapp2.2\ProductMicroservice.runtimeconfig.dev.json
+F:\NetCore\WebAPI\ProductMicroservice\ProductMicroservice\ProductMicroservice\bin\Debug\netcoreapp2.2\ProductMicroservice.dll
+F:\NetCore\WebAPI\ProductMicroservice\ProductMicroservice\ProductMicroservice\bin\Debug\netcoreapp2.2\ProductMicroservice.pdb
+F:\NetCore\WebAPI\ProductMicroservice\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.csprojAssemblyReference.cache
+F:\NetCore\WebAPI\ProductMicroservice\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.RazorTargetAssemblyInfo.cache
+F:\NetCore\WebAPI\ProductMicroservice\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.dll
+F:\NetCore\WebAPI\ProductMicroservice\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.pdb

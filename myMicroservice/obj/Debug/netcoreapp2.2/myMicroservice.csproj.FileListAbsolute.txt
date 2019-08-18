@@ -1,0 +1,14 @@
+F:\NetCore\WebAPI\myMicroservice\bin\Debug\netcoreapp2.2\myMicroservice.deps.json
+F:\NetCore\WebAPI\myMicroservice\bin\Debug\netcoreapp2.2\myMicroservice.runtimeconfig.json
+F:\NetCore\WebAPI\myMicroservice\bin\Debug\netcoreapp2.2\myMicroservice.runtimeconfig.dev.json
+F:\NetCore\WebAPI\myMicroservice\bin\Debug\netcoreapp2.2\myMicroservice.dll
+F:\NetCore\WebAPI\myMicroservice\bin\Debug\netcoreapp2.2\myMicroservice.pdb
+F:\NetCore\WebAPI\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.csprojAssemblyReference.cache
+F:\NetCore\WebAPI\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.csproj.CoreCompileInputs.cache
+F:\NetCore\WebAPI\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.RazorAssemblyInfo.cache
+F:\NetCore\WebAPI\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.RazorAssemblyInfo.cs
+F:\NetCore\WebAPI\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.AssemblyInfoInputs.cache
+F:\NetCore\WebAPI\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.AssemblyInfo.cs
+F:\NetCore\WebAPI\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.RazorTargetAssemblyInfo.cache
+F:\NetCore\WebAPI\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.dll
+F:\NetCore\WebAPI\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.pdb
